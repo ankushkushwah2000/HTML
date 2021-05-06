@@ -1,0 +1,327 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.hadding{
+	width: 100%;
+	height: 25px;
+	background: #303030;
+}
+.text{
+	color: #ffffff;
+    padding-top: 3px;
+}
+.hadder{
+	width: 100%;
+	height: 70px;
+	background: #fff;
+}
+.logo{
+	width: 158px;
+	height: 46px;
+	padding-top: 13px;
+    margin-left: 175px;
+}
+.manu
+{
+	background: none;
+	margin-top: 25px;
+	margin-right: 348px;
+	       float: right;
+   padding-right: 140px;
+}
+.manu ul li {
+	display: inline-block;
+	width: 85px;
+	height: 30px;
+	text-align: center;
+	color: black;
+}
+.manu ul li:hover{
+	background-color: blue;
+}
+.manu ul li a{
+	color: black;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+
+	
+}
+.icon{
+	margin-top: -39px;
+	    float: right;
+	margin-right: 160px;
+}
+.slider{
+	width: 100%
+	height:500px;
+}
+.image{
+       width: 100%;
+       height: auto;
+}
+.adiv{
+	width: 580px;
+	height: 580px;
+	float: left;
+    margin: auto;
+    margin-left: 180px;
+    margin-right: -141px;
+    margin-top: 30px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/1_85d62396-22fb-4c0e-9972-94cf6254c03c_2048x.png?v=1598108905");
+    background-size: cover;
+}
+.bdiv{
+	width: 580px;
+	height: 580px;
+	float: left;
+    margin: auto;
+    margin-left: 180px;
+    margin-right: -141px;
+    margin-top: 30px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/2_afef9b3b-8390-4fb2-8e7e-0c193ab5ab3e_2048x.png?v=1598108928");
+    background-size: cover;
+}
+.cdiv{
+	width: 580px;
+	height: 580px;
+	float: left;
+    margin: auto;
+    margin-left: 180px;
+    margin-right: -141px;
+    margin-top: 30px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/10_d76fa6bd-e7ec-4421-99a5-0865737e3154_2048x.jpg?v=1598425100");
+    background-size: cover;
+}
+.ddiv{
+	width: 580px;
+	height: 580px;
+	float: left;
+    margin: auto;
+    margin-left: 180px;
+    margin-right: -141px;
+    margin-top: 30px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/11_f87594f3-bd4c-46c2-9036-e1846173a87f_2048x.jpg?v=1598425134");
+    background-size: cover;
+}
+.ediv{
+	width: 580px;
+	height: 580px;
+	float: left;
+    margin: auto;
+    margin-left: 180px;
+    margin-right: -141px;
+    margin-top: 30px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/12_aac9c8bc-a51b-4b19-88e6-f0039cad3fd7_2048x.jpg?v=1598425159");
+    background-size: cover;
+}
+.to{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 20px;
+	margin-top: 245px;
+    text-align: center;
+    font-family: monospace;
+}
+.fdiv{
+	width: 580px;
+	height: 580px;
+	float: left;
+    margin: auto;
+    margin-left: 180px;
+    margin-right: -141px;
+    margin-top: 30px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/13_edbf1d05-ffac-4766-99ae-dd9fc9c73d1a_2048x.jpg?v=1598425195");
+    background-size: cover;
+}
+.gdiv{
+	width: 580px;
+	height: 580px;
+	float: left;
+    margin: auto;
+    margin-left: 180px;
+    margin-right: -141px;
+    margin-top: 30px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/14_d6eea7c7-6439-41e9-bedd-8d03c51216dd_2048x.jpg?v=1598425233");
+    background-size: cover;
+}
+.hdiv{
+	width: 580px;
+	height: 580px;
+	float: left;
+    margin: auto;
+    margin-left: 180px;
+    margin-right: -141px;
+    margin-top: 30px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/7_9fbd308d-432c-42a6-ac11-2969d99fa647_2048x.png?v=1598425611");
+    background-size: cover;
+}
+.idiv{
+	width: 580px;
+	height: 580px;
+	float: left;
+    margin: auto;
+    margin-left: 180px;
+    margin-right: -141px;
+    margin-top: 30px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/3_d65a36ed-55dc-4b1a-964c-89571aa8f836_2048x.png?v=1598425976");
+    background-size: cover;
+
+}
+.jdiv{
+	width: 580px;
+	height: 580px;
+	float: left;
+    margin: auto;
+    margin-left: 180px;
+    margin-right: -141px;
+    margin-top: 30px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/4_e6251416-4f76-4ec8-b956-b79e81787193_2048x.png?v=1598425878");
+    background-size: cover;
+
+}
+.kdiv{
+	width: 580px;
+	height: 580px;
+	float: left;
+    margin: auto;
+    margin-left: 180px;
+    margin-right: -141px;
+    margin-top: 30px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/5_b4a2484e-49e3-4ad4-aed7-f449324cf30f_2048x.png?v=1598425901");
+    background-size: cover;
+
+}
+.ldiv{
+	width: 580px;
+	height: 580px;
+	float: left;
+    margin: auto;
+    margin-left: 180px;
+    margin-right: -141px;
+    margin-top: 30px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/6_f3164762-bb05-4acc-bb04-1fa0b2f4befe_2048x.png?v=1598425929");
+    background-size: cover;
+
+}
+.mdiv{
+	width: 580px;
+	height: 580px;
+	float: left;
+    margin: auto;
+    margin-left: 180px;
+    margin-right: -141px;
+    margin-top: 30px;
+    background: url("https://cdn.shopify.com/s/files/1/0907/2228/files/8_6011f50f-b2c1-40c1-8f7a-c9319c937417_2048x.png?v=1598425949");
+    background-size: cover;
+}
+
+.images{
+	width:100%;
+	height: 580px;
+
+}
+.d{
+	width: 100%;
+	height: 248px;
+	background: #000000;
+	float: right;
+	margin-top: 50px;
+}
+.e{
+	padding: 20px;
+	margin-left: 523px;
+	float: left;
+	text-align: center;
+	margin-top: -210px;
+	color: white;
+    font-size: 19px;
+
+}
+
+
+.titel{
+	color:white;
+
+
+}
+.email{
+	width: 250px;
+	height: 35px;
+}
+.sign{
+	width:105px;
+	height: 35px;
+	background: #404040;
+	color: white;
+	border: 0;
+	font-size: 15px;
+}
+.footer{
+	width: 100%;
+	height:450px;
+	background: white;
+	float: left
+
+}
+.columns{
+float: left;
+display: inline;
+margin-left: 130px;
+    margin-top: 15px;
+    margin-right: -80px;
+}
+.columns ul li{
+	list-style: none;
+}
+.k{
+	font-size: 17px;
+}
+.l{
+	font-size: 20px;
+	margin-top: 20px;
+    margin-left: 25px;
+    color: #404040;
+}
+.t{
+	margin-top: 120px;
+	margin-left: 160px;
+}
+.grips{
+	width: 380px;
+	height: 480px;
+	float: left;
+    margin-right: -111px;
+    margin-left: 147px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+.gimage{
+	width: 380px;
+	height: 380px;
+}
+.g1{
+	margin-left: 165px;
+	 margin-top: 45px;
+	  font-size: 15px;
+	  font-family: auto;
+
+}
+.g1 ul li{
+	display: inline-block;
+
+}
+
+.g1 ul li a{
+	text-decoration: none;
+	color: red;
+
+}
+.g1 ul li:hover{
+	background: black;
+}
+.g1 h2{
+	margin-top: 25px;
+	font-size: 30px;
+}

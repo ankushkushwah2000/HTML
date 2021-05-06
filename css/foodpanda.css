@@ -1,0 +1,173 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.a{
+	width: 100%;
+	height: 66px;
+	background: #fff;
+	position: fixed;
+
+}
+.logo{
+	width: 133px;
+	height: 30px;
+    margin-left: 167px;
+    margin-top: 20px;
+}
+.c{
+	
+	color: #d70f64;
+	text-decoration: none;
+    float: right;
+    margin-right: 119px;
+    margin-top: -22px;
+}
+
+.c a{
+	color: #d70f64;
+	text-decoration: none;
+	    margin-left: 32px;
+	        font-size: 18px;
+    font-family: emoji;
+}
+.d{
+	width: 1519px;
+	height: 750px;
+	background: url(https://www.foodpanda.com/wp-content/uploads/2021/01/foodpanda-model1-opt-scaled.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+.text{
+	text-align: center;
+	color: white;
+	padding-top: 350px;
+	font-size: 50px;
+
+}
+.e{
+	width: 1519px;
+	height: 750px;
+	background: white;
+
+}
+.f{
+	text-align: center;
+	color: #d70f64;
+	padding-top: 350px;
+	font-size: 40px;
+    letter-spacing: 2px;
+
+}
+.g{
+	    width: 878px;
+    text-align: center;
+    margin-left: 320px;
+    margin-top: 40px;
+    font-size: 20px;
+    color: #333;
+}
+.button{
+	width: 290px;
+	height: 48px;
+	border-style:none;
+	background: #d70f64;
+	color: white;
+    margin-top: 50px;
+    margin-left: 617px;
+    font-size: 15px; 
+}
+.h{
+	width: 1519px;
+	height: 750px;
+	background: url('../imege/food.jpg');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed; 
+}
+.i{
+	width: 1519px;
+	height: 750px;
+	background: url('../imege/food1.jpg');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed; 
+}
+.j{
+	width: 1519px;
+	height: 750px;
+	background: #d70f64;
+}
+.k{
+	text-align: center;
+	color: white;
+	padding-top: 350px;
+	font-size: 40px;
+    letter-spacing: 2px;
+}
+.l{
+	width: 878px;
+    text-align: center;
+    margin-left: 320px;
+    margin-top: 40px;
+    font-size: 20px;
+    color:white;
+}
+.m{
+	width: 290px;
+	height: 48px;
+	border-style:none;
+	background: white;
+	color: #d70f64;
+    margin-top: 50px;
+    margin-left: 617px;
+    font-size: 15px; 
+}
+
+.n{
+	width: 1519px;
+	height: 150px;
+}
+.o{
+	width: 200px;
+	height: 50px;
+    margin-left: 96px;
+    margin-top: 40px;
+}
+.p{
+	margin-left: 111px;
+	font-size: 20px;
+}
+.q{
+	width: 1519px;
+	height: 50px;
+	background: #050505bd;
+	margin-top: 128px;
+}
+.r{
+	color: white;
+	margin-left: 105px;
+    padding-top: 11px;
+    font-size: 13px;
+}
+.s{
+	float: right;
+    margin-top: -57px;
+    margin-right: 50px;
+}
+.t{
+	
+	    float: right;
+	    margin-right: 50px;
+          margin-top: -10px;
+}
+.t a{
+	text-decoration: none;
+    color: black;
+    font-size: 19px;
+    margin-left: 6px;
+}
+.fleg{
+	margin-left: 20px;
+}
